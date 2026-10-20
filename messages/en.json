@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "title": "Ajak Cyber Academy LMS",
+    "description": "Learn anytime, anywhere with Ajak's powerful learning management system"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "courses": "Courses",
+    "assignments": "Assignments",
+    "exams": "Exams",
+    "certificates": "Certificates",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Log out",
+    "login": "Log in",
+    "signup": "Sign up",
+    "search": "Search",
+    "notifications": "Notifications",
+    "messages": "Messages"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full name",
+    "role": "Role",
+    "student": "Student",
+    "teacher": "Instructor",
+    "admin": "Administrator",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset password",
+    "verifyEmail": "Verify email",
+    "2fa": {
+      "title": "Two-Factor Authentication",
+      "setup": "Set up 2FA",
+      "verify": "Enter verification code",
+      "recoveryCode": "Use recovery code",
+      "backupCodes": "Backup codes"
+    },
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "emailNotVerified": "Please verify your email before logging in",
+      "accountDisabled": "Account has been disabled",
+      "weakPassword": "Password is too weak",
+      "passwordMismatch": "Passwords do not match"
+    }
+  },
+  "courses": {
+    "title": "Courses",
+    "myCourses": "My Courses",
+    "browse": "Browse Courses",
+    "enroll": "Enroll",
+    "enrolled": "Enrolled",
+    "completed": "Completed",
+    "progress": "Progress",
+    "lessons": "Lessons",
+    "instructor": "Instructor",
+    "rating": "Rating",
+    "students": "Students",
+    "duration": "Duration",
+    "level": "Level",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "free": "Free",
+    "paid": "Paid"
+  },
+  "assignments": {
+    "title": "Assignments",
+    "dueDate": "Due date",
+    "submitted": "Submitted",
+    "graded": "Graded",
+    "pending": "Pending",
+    "late": "Late",
+    "points": "Points",
+    "totalPoints": "Total points",
+    "submit": "Submit",
+    "resubmit": "Resubmit"
+  },
+  "exams": {
+    "title": "Exams",
+    "start": "Start Exam",
+    "timeRemaining": "Time remaining",
+    "submit": "Submit Exam",
+    "results": "Results",
+    "pass": "Pass",
+    "fail": "Fail",
+    "score": "Score"
+  },
+  "certificates": {
+    "title": "Certificates",
+    "download": "Download",
+    "verify": "Verify Certificate",
+    "issued": "Issued on",
+    "expires": "Expires on"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "empty": "No notifications yet"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and"
+  },
+  "gdpr": {
+    "cookieBanner": {
+      "title": "We value your privacy",
+      "description": "We use cookies to enhance your experience, analyze site traffic, and assist in our marketing efforts.",
+      "acceptAll": "Accept all",
+      "rejectAll": "Reject all",
+      "customize": "Customize preferences",
+      "necessary": "Necessary",
+      "necessaryDesc": "Essential for the website to function properly.",
+      "analytics": "Analytics",
+      "analyticsDesc": "Helps us understand how visitors interact with our website.",
+      "marketing": "Marketing",
+      "marketingDesc": "Used to deliver relevant advertisements.",
+      "savePreferences": "Save preferences"
+    },
+    "privacyCenter": {
+      "title": "Privacy Center",
+      "dataExport": "Export my data",
+      "dataDelete": "Delete my account",
+      "requestExport": "Request data export",
+      "requestDelete": "Request account deletion",
+      "exportPending": "Your data export is being prepared. You will receive an email when it's ready.",
+      "deleteConfirm": "Are you sure? This will permanently delete your account and all associated data.",
+      "deletePending": "Your account deletion request has been received. It will be processed within 30 days."
+    }
+  },
+  "offline": {
+    "indicator": "You're offline",
+    "description": "Some features may be limited. We'll sync when you're back online.",
+    "installPrompt": "Install Ajak LMS",
+    "installDescription": "Get instant access on your home screen. Learn offline anytime, anywhere."
+  }
+}

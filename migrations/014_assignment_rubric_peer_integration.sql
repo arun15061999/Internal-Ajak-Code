@@ -1,0 +1,2 @@
+-- Superseded by:
+-- supabase/migrations/20260501090000_gradebook_reports_cyber_foundations.sql
